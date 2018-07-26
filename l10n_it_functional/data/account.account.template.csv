@@ -1,0 +1,14 @@
+id,code,name,user_type_id:id,reconcile,chart_template_id:id
+1101,1101,banche c/c ,account.data_account_type_current_assets,FALSE,l10n_it_chart_template_generic
+1121,1121,denaro in cassa ,account.data_account_type_current_assets,FALSE,l10n_it_chart_template_generic
+1301,1301,crediti v/clienti ,account.data_account_type_current_assets,TRUE,l10n_it_chart_template_generic
+2202,2202,debiti v/fornitori ,account.data_account_type_current_liabilities,TRUE,l10n_it_chart_template_generic
+2601,2601,IVA n/debito,account.data_account_type_current_liabilities,FALSE,l10n_it_chart_template_generic
+1531,1531,IVA n/credito ,account.data_account_type_current_assets,FALSE,l10n_it_chart_template_generic
+3033,3033,patrimonio netto ,account.data_account_type_current_liabilities,FALSE,l10n_it_chart_template_generic
+3039,3039,utile d'esercizio ,account.data_account_type_current_liabilities,FALSE,l10n_it_chart_template_generic
+4404,4404,merci c/vendite ,account.data_account_type_revenue,FALSE,l10n_it_chart_template_generic
+5505,5505,merci c/acquisti ,account.data_account_type_expenses,FALSE,l10n_it_chart_template_generic
+7701,7701,costi indiretti,account.data_account_type_expenses,FALSE,l10n_it_chart_template_generic
+9701,9701,differenze cambio,account.data_account_type_expenses,FALSE,l10n_it_chart_template_generic
+9901,9901,conto di risultato economico ,account.data_account_type_expenses,FALSE,l10n_it_chart_template_generic

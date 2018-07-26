@@ -1,0 +1,8 @@
+name,chart_template_id:id,id
+Italia regime ordinario,l10n_it_chart_template_generic,it
+Cessioni all esportazione,l10n_it_chart_template_generic,export
+Cessioni all esportazione plafond,l10n_it_chart_template_generic,plafond
+Cessioni intracomunitarie,l10n_it_chart_template_generic,intra
+Importazioni,l10n_it_chart_template_generic,import
+Acquisti intracomunitari,l10n_it_chart_template_generic,intrain
+Pubblica amministrazione,l10n_it_chart_template_generic,pa
