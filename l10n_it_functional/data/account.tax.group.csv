@@ -12,6 +12,7 @@ tax_group_iva_22_de_50,IVA 22% Detraibile 50%
 tax_group_iva_00_art_15,Escluso Art.15
 tax_group_iva_00_art_10,Esente Art.10
 tax_group_iva_00_fc,Fuori Campo IVA
+tax_group_iva_22_CE_INTRA,Acquisti intracomunitari
 tax_group_iva_00_art8,Cessioni all’esportazione non imponibili
 tax_group_iva_00_art8-1c,Cessioni all’esportazione non imponibili art 8 comma 1c (plafond)
 tax_group_iva_00_art7,Operazioni non imponibili art 7 dpr 633 1972
